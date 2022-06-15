@@ -1,0 +1,18 @@
+.item{
+    height: 45px;
+    width: 100% ;
+    padding: 0 0 0 45px ;
+    /* justify-content: center; */
+    background-color: rgb(145, 218, 218);
+    align-items: center;
+    text-align: center;
+}
+
+.box1{
+   
+}
+.buy-now{
+    color: aqua;
+
+}
+
